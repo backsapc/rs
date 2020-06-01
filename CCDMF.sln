@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCDMF", "CCDMF\CCDMF.csproj", "{71E1F80C-6F48-444D-9540-CDA9935C9E72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MfConsole", "MfConsole\MfConsole.csproj", "{E87050FA-2E90-4ABD-A9E0-4544A2710073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E1F80C-6F48-444D-9540-CDA9935C9E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E1F80C-6F48-444D-9540-CDA9935C9E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E1F80C-6F48-444D-9540-CDA9935C9E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E1F80C-6F48-444D-9540-CDA9935C9E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87050FA-2E90-4ABD-A9E0-4544A2710073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87050FA-2E90-4ABD-A9E0-4544A2710073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87050FA-2E90-4ABD-A9E0-4544A2710073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87050FA-2E90-4ABD-A9E0-4544A2710073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB199FA-9A1B-44AB-94FE-F92FE9D577D6}
+	EndGlobalSection
+EndGlobal
